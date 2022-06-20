@@ -27,7 +27,7 @@ Run FrontEnd React App locally:
 Run BackEnd SpringBoot App locally:
 
 - Download the source code from the repository
-- Navigate to /TechCodingTask where build.gradle is present
+- Navigate to the directory where `build.gradle` file is present
 - Run following command `./gradlew bootRun`
 - Java Application should run on `http://localhost:8080/`.
 
